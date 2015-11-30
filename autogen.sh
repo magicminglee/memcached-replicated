@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Get the initial version.
-perl version.pl
+#perl version.pl
 
 die() {
     echo "$@"
